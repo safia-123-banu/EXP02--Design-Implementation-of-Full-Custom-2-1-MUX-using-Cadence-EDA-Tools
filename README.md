@@ -101,14 +101,5 @@ For Transient Analysis Settings and Output
  ![Screenshot (8)](https://github.com/user-attachments/assets/7781e721-dac5-42dd-bd40-07ad862617f3)
 
 Results:
-
-1. The experiment successfully demonstrated the design and implementation of a 2:1 MUX using Cadence EDA tools.
-2. The successful verification through schematic, layout, and simulation underscores the effectiveness of using Cadence EDA tools for digital circuit design.
-
-
-
- 
-
-Results:
 1.	The experiment successfully demonstrated the design and implementation of a 2:1 MUX using Cadence EDA tools. 
 2.	The successful verification through schematic, layout, and simulation underscores the effectiveness of using Cadence EDA tools for digital circuit design.
